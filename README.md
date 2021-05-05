@@ -10,5 +10,6 @@ This churn dataset consists of 7043 unique rows, representative of 7043 customer
 
 
 | Variable Name | Data Type | Description |
+|---------------|-----------|-------------|
 | customerID    |  string   | Unique ID for row. Set as index.|
 | gender        | int64     | Female = 1, Male = 0 |
