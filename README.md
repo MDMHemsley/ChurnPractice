@@ -1,5 +1,5 @@
 # Telco Customer Churn
-My experiences with a fictional churn dataset found on Kaggle
+My experiences with a fictional churn dataset found on Kaggle:
 https://www.kaggle.com/blastchar/telco-customer-churn
 
 ## Summary
@@ -13,3 +13,8 @@ This churn dataset consists of 7043 unique rows, representative of 7043 customer
 |---------------|-----------|-------------|
 | customerID    |  string   | Unique ID for row. Set as index.|
 | gender        | int64     | Female = 1, Male = 0 |
+
+## Models
+The following modeling technique were utilized throughout this project. Inferences can be found below, with further details outlined in the notebook. As we are attempting to perdict churn, which is a binary classification, we will be looking at models that deal with binary classification. 
+
+### Logistic Regression
