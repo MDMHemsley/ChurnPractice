@@ -58,8 +58,8 @@ The following modeling technique were utilized throughout this project. Inferenc
  Logistic regression is utilized to determine the statistical significance of each feature based on their z-score and coefficent to determine impact on the dependent variable, churn. Not only did this model perform the best, but also provided the most interpretation in order to dervice insights from the performance of our model concerning given features.
 
 ### K-Nearest Neighbors
-K-Nearest Neighbors predicts the class of an observation by identifing the closest observations that are closest to it.
+K-Nearest Neighbors predicts the class of an observation by identifing the closest observations that are closest to it. Gridsearching is used to tune this model across both the way it measures distances, as well as how much importance it places on the proximity of each neighbor.
 
 
-### Support Vector Machine
-
+### Support-Vector Machine
+Support-Vector Machines are supervised learning models with associated learning algorithms that analyze data for classification. One of the most powerful non-neural network models, for more details I recommend reading Towards Data Science's article: https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
