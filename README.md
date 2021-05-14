@@ -19,6 +19,7 @@ This churn dataset consists of 7043 unique rows, representative of 7043 customer
  <li>StatsModels API</li>
  <li>SKLearn</li>
 </ul>
+
 ## Data Dictionary
 **NOTE:** There was no provided data dictionary with the Kaggle dataset. I have done external research, as well as asked fellow data scientists, and have made several assumptions in order to proceed with my exploration of this data set. Features will assumed descriptions will be labeled Ambiguous prior to their description.
 
